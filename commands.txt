@@ -3,4 +3,6 @@ git add (file names)
 git commit -m "(committed message)
 git push -u origin main
 git remote add origin main(url)
-
+git fetch (url)
+git init
+git pull
