@@ -1,8 +1,9 @@
 git clone (url)
 git add (file names)
-git commit -m "(committed message)
-git push -u origin main
+git commit -m "(committed message) #commit to local 
+git push -u origin main #push to git hub
 git remote add origin main(url)
-git fetch (url)
-git init (url)
-git pull (url)
+git fetch (url) #to move an existing repo into your
+git init (url) #to create a repo
+git pull (url) 
+
